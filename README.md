@@ -85,5 +85,8 @@ Enjoy a smarter way to explore films with our **AI-powered Movie Recommender Sys
 
 📌 **Developed by Kumar Ravi, Jay Gupta, Abinash Giri**
 
+
+
+---
 🚀 **Happy Watching! 🎥🍿**
 
