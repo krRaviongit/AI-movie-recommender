@@ -83,7 +83,7 @@ Enjoy a smarter way to explore films with our **AI-powered Movie Recommender Sys
 
 ---
 
-📌 **Developed by Kumar Ravi, Jay Gupta, Abinash Giri**
+📌 **Developed by Kumar Ravi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Boy.png" alt="Boy" width="25" height="25" />, Jay Gupta, Abinash Giri**
 
 
 
