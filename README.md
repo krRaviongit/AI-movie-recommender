@@ -35,14 +35,6 @@ For a live demonstration of our **Movie Recommender System**, watch the video be
 
 ---
 
-## 🎭 Try the App
-
-Experience the **Movie Recommender System** firsthand! Click the link below to explore:
-
-[🔗 **Movie Recommender System App**](https://movie-recommender-syst.streamlit.app/)
-
----
-
 ## 🛠️ Installation Guide
 
 Follow these steps to set up and run the application:
